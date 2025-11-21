@@ -1,0 +1,27 @@
+# ninja log v6
+24	580	7854210904953263	qtindex2_autogen/timestamp	623d8b7ff75fdaa9
+24	580	7854210904953263	E:/.C++/GIthub/index/qtindex2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/qtindex2_autogen/timestamp	623d8b7ff75fdaa9
+581	2481	7854210905950589	CMakeFiles/qtindex2.dir/qtindex2_autogen/mocs_compilation.cpp.obj	20499bdac9d66015
+24	580	7854210904953263	qtindex2_autogen/mocs_compilation.cpp	623d8b7ff75fdaa9
+3900	4048	7854210939141805	qtindex2.exe	5db21615da5bcd8
+24	580	7854210904953263	E:/.C++/GIthub/index/qtindex2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/qtindex2_autogen/mocs_compilation.cpp	623d8b7ff75fdaa9
+583	2578	7854210905980512	CMakeFiles/qtindex2.dir/main.cpp.obj	86283f06a7d3fcfd
+586	3900	7854210906010431	CMakeFiles/qtindex2.dir/mainwindow.cpp.obj	4ad20f0caf5bf6b7
+15	150	7854263199657572	qtindex2_autogen/timestamp	623d8b7ff75fdaa9
+15	150	7854263199657572	qtindex2_autogen/mocs_compilation.cpp	623d8b7ff75fdaa9
+15	150	7854263199657572	E:/.C++/GIthub/index/qtindex2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/qtindex2_autogen/timestamp	623d8b7ff75fdaa9
+15	150	7854263199657572	E:/.C++/GIthub/index/qtindex2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/qtindex2_autogen/mocs_compilation.cpp	623d8b7ff75fdaa9
+150	3412	7854263200998626	CMakeFiles/qtindex2.dir/mainwindow.cpp.obj	4ad20f0caf5bf6b7
+3412	3875	7854263233621049	qtindex2.exe	5db21615da5bcd8
+23	137	7854264372327214	qtindex2_autogen/timestamp	623d8b7ff75fdaa9
+23	137	7854264372327214	qtindex2_autogen/mocs_compilation.cpp	623d8b7ff75fdaa9
+23	137	7854264372327214	E:/.C++/GIthub/index/qtindex2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/qtindex2_autogen/timestamp	623d8b7ff75fdaa9
+23	137	7854264372327214	E:/.C++/GIthub/index/qtindex2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/qtindex2_autogen/mocs_compilation.cpp	623d8b7ff75fdaa9
+138	3269	7854264373484135	CMakeFiles/qtindex2.dir/mainwindow.cpp.obj	4ad20f0caf5bf6b7
+3269	3419	7854264404800361	qtindex2.exe	5db21615da5bcd8
+22	162	7854264840637004	qtindex2_autogen/timestamp	623d8b7ff75fdaa9
+22	162	7854264840637004	qtindex2_autogen/mocs_compilation.cpp	623d8b7ff75fdaa9
+22	162	7854264840637004	E:/.C++/GIthub/index/qtindex2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/qtindex2_autogen/timestamp	623d8b7ff75fdaa9
+22	162	7854264840637004	E:/.C++/GIthub/index/qtindex2/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/qtindex2_autogen/mocs_compilation.cpp	623d8b7ff75fdaa9
+163	3142	7854264842043022	CMakeFiles/qtindex2.dir/mainwindow.cpp.obj	4ad20f0caf5bf6b7
+3142	3289	7854264871834529	qtindex2.exe	5db21615da5bcd8
